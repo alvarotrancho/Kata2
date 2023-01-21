@@ -20,6 +20,5 @@ public class Kata2 {
             Map.Entry<Integer,Integer> entry = entries.next();
             System.out.println(entry.getKey() + " ==> " +entry.getValue());
         }
-    }
-    
+    } 
 }
